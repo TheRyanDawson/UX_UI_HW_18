@@ -1,0 +1,109 @@
+.title1{
+    text-align: center;
+}
+/*
+.h2{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+.b1{
+    font-family: agenda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    font-stretch: 5%;
+}
+*/
+.title1 h3{
+    font-family: agenda, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+}
+.caseStudy1{
+    display: inline-block;
+}
+.caseStudy1img{
+    Margin-left: 40px;
+    padding-right: 116;
+    height: 568px;
+    width: auto;
+    float: left;
+}
+.caseStudy1text{
+    margin-right: 40px;
+    float: right;
+    width: 784px;
+}
+.caseStudy1text h2{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+.caseStudy1text b1{
+    font-family: agenda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    font-stretch: 5%;
+}
+.caseStudy2{
+    display: inline-block;
+}
+.caseStudy2text{
+    margin-left:40px;
+    float: left;
+    width: 887px;
+}
+.caseStudy2text h2{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+.caseStudy2text b1{
+    font-family: agenda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    font-stretch: 5%;
+}
+.caseStudy2img{
+    margin-right: 40px;
+    padding-left: 116px;
+    float: right;
+    height: 647px;
+    width:auto;
+}
+
+.caseStudy3{
+    display: inline-block;
+}
+.caseStudy3img{
+    margin-left: 40px;
+    padding-right: 116px;
+    float: left;
+   height: 637;
+   width: auto; 
+}
+.caseStudy3text{
+    margin-right: 40px;
+    float: Right;
+    width: 782px;
+}
+.caseStudy3text h2{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+.caseStudy3text b1{
+    font-family: agenda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    font-stretch: 5%;  
+}
